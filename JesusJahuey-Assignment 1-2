@@ -1,0 +1,4 @@
+print("Enter a value for x: ")
+userInput=int(input("Enter a value for x:"))
+result = userInput * 10
+print("The result is", result)
